@@ -2,7 +2,8 @@ import java.util.regex.Pattern;
 import java.util.Scanner;
 
 public class App {
-    // DETAILS ARE ON README.MD (https://github.com/BenjaminFosters/ObjectOrientedProgramming-Course-B29/tree/main/Session2-LC20-SimpleEmployeeSystem)
+    // DETAILS ARE ON README.MD
+    // (https://github.com/BenjaminFosters/ObjectOrientedProgramming-Course-B29/tree/main/Session2-LC20-SimpleEmployeeSystem)
 
     private static Boolean validateEmail(String email) {
         /*
